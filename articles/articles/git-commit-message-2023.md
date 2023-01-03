@@ -1,5 +1,5 @@
 ---
-title: "Gitのコミットメッセージの書き方（2022年 ver.）"
+title: "Gitのコミットメッセージの書き方（2023年ver.）"
 emoji: "⛰️"
 type: "tech"
 topics: ["Git", "GitHub", "GitLab"]
