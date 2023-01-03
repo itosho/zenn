@@ -3,7 +3,8 @@ title: "Gitのコミットメッセージの書き方（2023年ver.）"
 emoji: "⛰️"
 type: "tech"
 topics: ["Git", "GitHub", "GitLab"]
-published: false
+published: true
+published_at: 2023-01-04 10:00
 ---
 
 ## 本記事のモチベーション
